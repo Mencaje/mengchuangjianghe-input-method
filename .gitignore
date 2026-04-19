@@ -9,9 +9,6 @@
 **/intermediates/
 **/out/
 
-# 预编译原生库（按需本地放置，见各模块 README）
-**/jniLibs/**/*.so
-
 # IDE / 工具
 .DS_Store
 Thumbs.db
