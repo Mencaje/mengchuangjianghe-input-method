@@ -1,0 +1,32 @@
+# Gradle / Android
+**/build/
+**/.gradle/
+**/.cxx/
+**/local.properties
+**/captures/
+*.iml
+.idea/
+**/intermediates/
+**/out/
+
+# 预编译原生库（按需本地放置，见各模块 README）
+**/jniLibs/**/*.so
+
+# IDE / 工具
+.DS_Store
+Thumbs.db
+.cursor/
+.history/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 常见大模型（若放在仓库内请按需取消忽略）
+**/ggml*.bin
+**/*.onnx
+
+# 日志
+*.log

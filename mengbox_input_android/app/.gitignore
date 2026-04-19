@@ -1,0 +1,3 @@
+/build
+# 本地放入的 Android 预编译 librime/opencc 等（见 jniLibs/README.txt）
+/src/main/jniLibs/**/*.so

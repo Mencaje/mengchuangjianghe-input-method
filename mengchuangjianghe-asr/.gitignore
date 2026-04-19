@@ -1,0 +1,11 @@
+# Local SDK path (machine-specific)
+local.properties
+# Build outputs
+.gradle/
+build/
+android/build/
+android/.cxx/
+*.iml
+.DS_Store
+# 语音 1.0 预编译 whisper（libwhisper.a、whisper.h）由开发者自行放置，不提交
+android/src/main/cpp/whisper_prebuilt/

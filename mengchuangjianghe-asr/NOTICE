@@ -1,0 +1,26 @@
+This project includes or uses the following open-source software:
+
+-----------------------------------------------------------------------------
+OpenAI Whisper
+-----------------------------------------------------------------------------
+Copyright (c) 2022-2024 OpenAI
+https://github.com/openai/whisper
+
+Licensed under the MIT License.
+
+Our local speech recognition is based on the Whisper model and/or compatible
+implementations (e.g. whisper.cpp). We optimize and integrate it for
+offline, on-device use without calling any third-party API.
+
+You may obtain a copy of the MIT License at:
+https://opensource.org/licenses/MIT
+
+-----------------------------------------------------------------------------
+whisper.cpp (when used as the local inference backend)
+-----------------------------------------------------------------------------
+Copyright (c) 2022-2024 Georgi Gerganov
+https://github.com/ggerganov/whisper.cpp
+
+Licensed under the MIT License.
+
+-----------------------------------------------------------------------------

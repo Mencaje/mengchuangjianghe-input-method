@@ -1,0 +1,11 @@
+Third-party notices
+
+This software may incorporate or link against the following projects:
+
+librime (Rime input method engine)
+  SPDX-License-Identifier: BSD-3-Clause
+  Source: https://github.com/rime/librime
+  Full license text: see third_party/librime/LICENSE
+
+When distributing binaries that include librime or Rime schema/data files,
+retain the corresponding copyright and license notices as required by those works.
